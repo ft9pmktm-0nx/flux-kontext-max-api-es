@@ -1,0 +1,15 @@
+{
+  "id": "flux-kontext-max",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-17T21:28:12Z",
+  "prices": {
+    "default": {
+      "list": 0.08,
+      "effective": 0.064
+    }
+  },
+  "rates": {},
+  "unit": "usd_per_image",
+  "hook": "from $0.064 per image",
+  "model_page": "https://apimart.ai/model/flux-kontext-max"
+}
